@@ -1,0 +1,18 @@
+{
+  "compactFiles": {
+    "latest": { "major": 4, "minor": 0, "patch": 0, "preRelease": "beta", "preReleaseMinor": 6 },
+    "latestNonPreRelease": { "major": 4, "minor": 0, "patch": 0, "preRelease": "", "preReleaseMinor": 0 },
+    "assets": {
+      "x64": "CompactFiles_4.0.0-beta.6_Win10-11_x64_Setup.exe",
+      "x86": "CompactFiles_4.0.0-beta.6_Win10-11_x86_Setup.exe",
+      "arm64": "CompactFiles_4.0.0-beta.6_Win10-11_arm64_Setup.exe"
+    }
+  },
+  "compactFilesLegacy": {
+    "latest": { "major": 1, "minor": 0, "patch": 0, "preRelease": "", "preReleaseMinor": 0 },
+    "latestNonPreRelease": { "major": 1, "minor": 0, "patch": 0, "preRelease": "", "preReleaseMinor": 0 },
+    "assets": {
+      "anycpu": "CompactFilesLegacy_1.0.0_Win7-8.1_Setup.exe"
+    }
+  }
+}
