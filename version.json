@@ -12,11 +12,11 @@
     }
   },
   "compactFilesLegacy": {
-    "latest": { "major": 1, "minor": 1, "patch": 3, "preRelease": "", "preReleaseMinor": 0 },
-    "latestNonPreRelease": { "major": 1, "minor": 1, "patch": 3, "preRelease": "", "preReleaseMinor": 0 },
+    "latest": { "major": 1, "minor": 1, "patch": 4, "preRelease": "", "preReleaseMinor": 0 },
+    "latestNonPreRelease": { "major": 1, "minor": 1, "patch": 4, "preRelease": "", "preReleaseMinor": 0 },
     "assets": {
-      "anycpu": "CompactFilesLegacy_1.1.3_Win7-8.1_Setup.exe",
-      "anycpu_msi": "CompactFilesLegacy_1.1.3_Win7-8.1_Setup.msi"
+      "anycpu": "CompactFilesLegacy_1.1.4_Win7-8.1_Setup.exe",
+      "anycpu_msi": "CompactFilesLegacy_1.1.4_Win7-8.1_Setup.msi"
     }
   }
 }
