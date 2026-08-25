@@ -1,22 +1,22 @@
 {
   "compactFiles": {
-    "latest": { "major": 4, "minor": 0, "patch": 0, "preRelease": "beta", "preReleaseMinor": 7 },
+    "latest": { "major": 4, "minor": 0, "patch": 0, "preRelease": "beta", "preReleaseMinor": 8 },
     "latestNonPreRelease": { "major": 0, "minor": 0, "patch": 0, "preRelease": "", "preReleaseMinor": 0 },
     "assets": {
-      "x64": "CompactFiles_4.0.0-beta.7_Win10-11_x64_Setup.exe",
-      "x86": "CompactFiles_4.0.0-beta.7_Win10-11_x86_Setup.exe",
-      "arm64": "CompactFiles_4.0.0-beta.7_Win10-11_arm64_Setup.exe",
-      "x64_msi": "CompactFiles_4.0.0-beta.7_Win10-11_x64_Setup.msi",
-      "x86_msi": "CompactFiles_4.0.0-beta.7_Win10-11_x86_Setup.msi",
-      "arm64_msi": "CompactFiles_4.0.0-beta.7_Win10-11_arm64_Setup.msi"
+      "x64": "CompactFiles_4.0.0-beta.8_Win10-11_x64_Setup.exe",
+      "x86": "CompactFiles_4.0.0-beta.8_Win10-11_x86_Setup.exe",
+      "arm64": "CompactFiles_4.0.0-beta.8_Win10-11_arm64_Setup.exe",
+      "x64_msi": "CompactFiles_4.0.0-beta.8_Win10-11_x64_Setup.msi",
+      "x86_msi": "CompactFiles_4.0.0-beta.8_Win10-11_x86_Setup.msi",
+      "arm64_msi": "CompactFiles_4.0.0-beta.8_Win10-11_arm64_Setup.msi"
     }
   },
   "compactFilesLegacy": {
-    "latest": { "major": 1, "minor": 1, "patch": 1, "preRelease": "", "preReleaseMinor": 0 },
-    "latestNonPreRelease": { "major": 1, "minor": 1, "patch": 1, "preRelease": "", "preReleaseMinor": 0 },
+    "latest": { "major": 1, "minor": 1, "patch": 2, "preRelease": "", "preReleaseMinor": 0 },
+    "latestNonPreRelease": { "major": 1, "minor": 1, "patch": 2, "preRelease": "", "preReleaseMinor": 0 },
     "assets": {
-      "anycpu": "CompactFilesLegacy_1.1.1_Win7-8.1_Setup.exe",
-      "anycpu_msi": "CompactFilesLegacy_1.1.1_Win7-8.1_Setup.msi"
+      "anycpu": "CompactFilesLegacy_1.1.2_Win7-8.1_Setup.exe",
+      "anycpu_msi": "CompactFilesLegacy_1.1.2_Win7-8.1_Setup.msi"
     }
   }
 }
